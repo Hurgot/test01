@@ -4,7 +4,7 @@ _El ejercicio fue realizado con el lenguaje Java, utilizando el IDE Apache NetBe
 
 ### Pre-requisitos 📋
 
-_Apache NetBeans en su ultiva version así como Java instalado_
+_Apache NetBeans en su ultima version así como Java instalado_
 
 ## Correr
 _Punto #1_
@@ -15,3 +15,6 @@ _Punto #2_
 ```
   new App2().run();
 ```
+
+## Notas
+_Se corrigió el ejercicio #1 en unas de las validaciones_
